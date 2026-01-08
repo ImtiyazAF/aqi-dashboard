@@ -1,7 +1,6 @@
 # 🌫️ Jakarta Air Quality (ISPU) Monitoring System
 
 ![Dashboard Preview](assets/dashboard_homepage.png)
-*(Note: Ganti dengan screenshot dashboard utama kamu)*
 
 ## 📖 Overview
 Proyek ini adalah sistem pemantauan kualitas udara (ISPU) *end-to-end* untuk wilayah DKI Jakarta. Dashboard ini menggabungkan **analisis historis** jangka panjang dengan **data real-time** yang diambil langsung dari API Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
