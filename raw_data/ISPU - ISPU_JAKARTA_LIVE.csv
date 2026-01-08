@@ -1,0 +1,2 @@
+waktu,t_pm10,t_pm25,t_so2,t_co,t_o3,t_no2,val_raw,dominant_pollutant,kategori,kategori_color,waktu_text,used_station
+2025-12-17 10:00:00,42,21,16,14,38,107,107,NO2,TIDAK SEHAT,#cccc00,17-Desember-2025 10:00:00,JAKARTA
